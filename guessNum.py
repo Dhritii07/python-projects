@@ -10,7 +10,7 @@ def guessNum():
     attempts = 0
     correct = False
 
-    while not correct and attempts <= 3:
+    while not correct:
         guess = input('Enter your guess: ')
 
         if not guess.isdigit():
@@ -25,7 +25,7 @@ def guessNum():
         elif guess > num:
             print('Hot')
         else:
-            print(f"Congrats! I guess you have guessed the number in {attempts} attempts!")
+            print(f"Congrats! You have guessed the number in {attempts} attempts!")
             correct = True
 
 guessNum()
