@@ -98,7 +98,7 @@ Invalid Email!
 
 ## 🪪 License
 
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute it with attribution.
+This project is licensed under the **MIT License**
 
 ---
 
