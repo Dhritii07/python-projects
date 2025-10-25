@@ -1,7 +1,6 @@
 # 📧 Email Validation Script  
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Stable-success)
 
 A simple yet enhanced **Email Validation Tool** built with Python 🐍.  
@@ -93,12 +92,6 @@ Invalid Email!
 
 **Dhriti**
 💻 GitHub: [@Dhritii07](https://github.com/Dhritii07)
-
----
-
-## 🪪 License
-
-This project is licensed under the **MIT License**
 
 ---
 
