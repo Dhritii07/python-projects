@@ -91,7 +91,7 @@ Invalid Email!
 
 ## 🧑‍💻 Author
 
-**Your Name**
+**Dhriti**
 💻 GitHub: [@Dhritii07](https://github.com/Dhritii07)
 
 ---
